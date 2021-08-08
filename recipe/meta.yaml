@@ -1,5 +1,5 @@
 {% set name = "types-Werkzeug" %}
-{% set version = "1.0.2" %}
+{% set version = "1.0.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-Werkzeug-{{ version }}.tar.gz
-  sha256: 7f6d4c8771a67d44e83134d56e59b482bf81ebd28e6557015fdfcc81e3d11b53
+  sha256: dedd6e634a8984fc32f3381460ee6a06c2777a6d95aacb4be717f96341461085
 
 build:
   number: 0
